@@ -9,3 +9,7 @@ body, html{
     background-repeat: no-repeat;
     background-size: cover;
 }
+h1{
+    background-color: aqua;
+    border: 4px red;
+}
