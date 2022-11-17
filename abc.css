@@ -13,3 +13,7 @@ h1{
     background-color: aqua;
     border: 4px red;
 }
+.h2{
+    background-color: black;
+    align-self: center;
+}
