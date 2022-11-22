@@ -8,3 +8,4 @@ c = reverse(b)
 while x <= a:
     print(x)
     x = x+1
+    
