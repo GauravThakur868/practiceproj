@@ -5,5 +5,8 @@
     font-weight: 800;
 }
 .pic{
-    align-self: center;
+    padding-left: auto;
+    padding-right: auto;
+    height: 0%;
+    width: min-content;
 }
